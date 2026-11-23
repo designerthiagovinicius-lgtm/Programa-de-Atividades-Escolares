@@ -1,0 +1,10 @@
+{
+  "thiago": {
+    "salt": "f581d964e16050d1228e4e7f1d8eb511",
+    "hash": "e9646beedb00b6f3d36bdbeb3f9f7f79ade5cc72de15aabe9ffa4d14f2759fc7"
+  },
+  "carlos": {
+    "salt": "3cdd65ecf6decbc7d07dc0adcc5fbba7",
+    "hash": "33b5c651e27f69f7e4dd5b8ef983e0dc84a5281b2e9c6164325f8af1056422c5"
+  }
+}

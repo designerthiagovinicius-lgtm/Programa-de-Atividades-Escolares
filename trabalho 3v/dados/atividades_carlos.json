@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "matematica 2",
+    "prioridade": "Média",
+    "concluida": false,
+    "criada_em": "2026-11-23",
+    "concluida_em": null
+  },
+  {
+    "id": 2,
+    "nome": "Portugues",
+    "prioridade": "Média",
+    "concluida": false,
+    "criada_em": "2026-11-23",
+    "concluida_em": null
+  }
+]
